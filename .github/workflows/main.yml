@@ -12,7 +12,7 @@ jobs:
             uses: actions/checkout@v3
           - name: Meterian Scanner
             # Uncomment and line below to use the dedicated variant of the Meterian GitHub action for dart
-            # uses: MeterianHQ/meterian-github-action@latest-dart
-            uses: MeterianHQ/meterian-github-action@v1.0.17
+            uses: MeterianHQ/meterian-github-action@latest-dart
+            #uses: MeterianHQ/meterian-github-action@v1.0.17
             with:
               oss: true
