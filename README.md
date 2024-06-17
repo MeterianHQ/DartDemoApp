@@ -1,6 +1,14 @@
 # DartDemoApp
 A demo application to show support for Dart in Meterian
 
+
+[![security status](https://www.meterian.io/badge/pb/39a141e3-c78c-4e87-ab3e-43554a6e612b/security?branch=main)](https://www.meterian.io/projects/?pid=39a141e3-c78c-4e87-ab3e-43554a6e612b)
+[![stability status](https://www.meterian.io/badge/pb/39a141e3-c78c-4e87-ab3e-43554a6e612b/stability?branch=main)](https://www.meterian.io/projects/?pid=39a141e3-c78c-4e87-ab3e-43554a6e612b)
+[![licensing status](https://www.meterian.io/badge/pb/39a141e3-c78c-4e87-ab3e-43554a6e612b/licensing?branch=main)](https://www.meterian.io/projects/?pid=39a141e3-c78c-4e87-ab3e-43554a6e612b)
+
+
+
+
 ## Meterian Scanner pipeline specification
 
 The [Meterian Scanner GitHub action](https://github.com/MeterianHQ/meterian-github-action) is configured to perform a vulnerability scan of the demo app.
